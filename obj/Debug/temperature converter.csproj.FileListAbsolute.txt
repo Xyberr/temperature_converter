@@ -1,0 +1,7 @@
+C:\Users\maksz\source\repos\temperature converter\bin\Debug\temperature converter.exe.config
+C:\Users\maksz\source\repos\temperature converter\bin\Debug\temperature converter.exe
+C:\Users\maksz\source\repos\temperature converter\bin\Debug\temperature converter.pdb
+C:\Users\maksz\source\repos\temperature converter\obj\Debug\temperature converter.csproj.AssemblyReference.cache
+C:\Users\maksz\source\repos\temperature converter\obj\Debug\temperature converter.csproj.CoreCompileInputs.cache
+C:\Users\maksz\source\repos\temperature converter\obj\Debug\temperature converter.exe
+C:\Users\maksz\source\repos\temperature converter\obj\Debug\temperature converter.pdb
